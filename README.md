@@ -96,8 +96,24 @@ The script generates:
 - Outlier boxplots
 - Top 10 best-selling products chart
 
+## Sample Output
+
+![Correlation Heatmap](screenshots/heatmap.png)
+
+![Top Products](screenshots/top_products.png)
+
+
 ## Purpose
 The purpose of this project is to perform comprehensive exploratory data analysis and extract meaningful insights that can support future machine learning models and business decision-making.
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+- Statistical Analysis
+- Python Programming
+- Business Insight Generation
 
 ## Author
 
