@@ -98,9 +98,9 @@ The script generates:
 
 ## Sample Output
 
-![Correlation Heatmap](screenshots/heatmap.png)
+![Correlation Heatmap](Screenshots/Correlation.png)
 
-![Top Products](screenshots/top_products.png)
+![Trends](Screenshots/trends.png)
 
 
 ## Purpose
